@@ -6,9 +6,9 @@
 
 <https://joseph7e.github.io/Joseph7e/>
 
-![Blog](https://github.com/jarrekk/Jalpc/raw/master/readme_files/Jalpc.png)
 
-- [3 steps to setup this theme at your website!](#3-steps-to-setup-this-theme-at-your-website)
+- [scroll here](#this-appears-here)
+
 - [Features](#features)
   - [Index page](#index-page)
     - [`_data/*.yml`](#_datayml)
@@ -34,10 +34,6 @@
 This is a simple, beautiful and swift theme for Jekyll. It's mobile first, fluidly responsive, and delightfully lightweight.
 
 If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by Smashing Magazine.
-
-# 3 steps to setup this theme at your website!
-
-Here is a [document](https://jarrekk.github.io/Jalpc/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html) of how to setup this theme with 3 steps and a [wiki](https://github.com/jarrekk/Jalpc/wiki/How-to-add-posts) of how to add posts. If you have any **questions** please ask me at [GitHub Issues](https://github.com/jarrekk/Jalpc/issues).
 
 # Features
 
@@ -67,6 +63,8 @@ The following is mapping between *yml files* to *donation*
 * donation/donationlist.yml ==> blog/donate.html
 * donation/alipay.yml  ==>  blog/donate.html
 * donation/wechat_pay.yml ==> blog/donate.yml
+
+# scroll here
 
 ## Chart Skills
 
