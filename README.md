@@ -1,6 +1,6 @@
 # Joseph L. Sevigny. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/Joseph7e/Joseph7e)
 
-[![HCGS](/static/assets/img/landing/avatar.png)](https://hcgs.unh.edu/)
+[![HCGS](/static/assets/img/landing/unhlogo.png)](https://hcgs.unh.edu/)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
