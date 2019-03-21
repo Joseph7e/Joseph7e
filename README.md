@@ -7,7 +7,7 @@
 <https://joseph7e.github.io/Joseph7e/>
 
 
-- [scroll here](#this-appears-here)
+- [Scroll here](#scroll-here)
 
 - [Features](#features)
   - [Index page](#index-page)
