@@ -1,4 +1,4 @@
-# Joseph L. Sevigny. [![Analytics](https://ga-beacon.appspot.com/UA-73784599-1/welcome-page)](https://github.com/Joseph7e/Joseph7e)
+# Joseph L. Sevigny
 
 [![HCGS](/static/assets/img/landing/unh-logo.png)](https://hcgs.unh.edu/)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/)
