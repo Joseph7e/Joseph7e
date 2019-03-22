@@ -18,5 +18,5 @@
 - name: Nanopore
   i18n: nanopore
   url: https://github.com/Joseph7e/Nanopore-Workflow
-  img: /static/assets/img/landing/nanopore.png
+  img: /static/assets/img/landing/nanopore.jpg
   desc: Workflow for nanopore data processing
