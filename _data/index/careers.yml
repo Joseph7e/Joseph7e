@@ -28,16 +28,16 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-# - name:
-#     detail: Army Corp of Engineers
-#     i18n: company_c
-#   desc:
-#     detail: Park Ranger
-#     i18n: company_c_desc
-#   date:
-#     detail: 2013
-#     i18n: company_c_date
-#   job:
-#     detail: Park Ranger
-#     i18n: company_c_job
-#   icon: fa-plus-square
+- name:
+    detail: Army Corp of Engineers
+    i18n: company_c
+  desc:
+    detail: Park Ranger
+    i18n: company_c_desc
+  date:
+    detail: 2013
+    i18n: company_c_date
+  job:
+    detail: Park Ranger
+    i18n: company_c_job
+  icon: fa-plus-square
