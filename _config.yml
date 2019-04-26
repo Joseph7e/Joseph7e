@@ -2,7 +2,7 @@
 
 # Website settings
 title: Joseph L. Sevigny
-description: Joe's Personal and Professional Website
+description: Joseph L. Sevigny Personal and Professional Website
 keywords: Joseph, Sevigny, Bioinformatics, Github, 
 baseurl:  /Joseph7e # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://joseph7e.github.io/Joseph7e  # url should be 'http://<github_username>.github.io/homepage' as before
