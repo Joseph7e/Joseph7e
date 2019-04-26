@@ -4,7 +4,7 @@ title:  "How to make your analyses reproducible"
 date:   2019-04-23
 desc: ""
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
+categories: [LINUX]
 tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
