@@ -10,7 +10,7 @@
     detail: Present
     i18n: company_a_date
   job:
-    detail: Graduate Student, Research/Teaching Assistant and Bioinformatician at Hubbard Center for Genome Studies
+    detail: Graduate Student, Research/Teaching Assistant and Bioinformatician at Hubbard Center for Genome Studies. I also teach workshops aimed at bringing bioinfomrtics into the core biology curriculum. 
     i18n: company_a_job
   icon: fa-plus-square
 
