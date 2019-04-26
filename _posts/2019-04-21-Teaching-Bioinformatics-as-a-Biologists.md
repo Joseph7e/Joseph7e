@@ -4,7 +4,7 @@ title:  "Examples of workflows and experiments o incorporate into biology core c
 date:   2019-04-21
 desc: "Examples of workflows and experiments to incorporate into biology core curriculum"
 keywords: "Bioinformtics, Biology, Teaching, Training"
-categories: [LINUX]
+categories: [linux]
 tags: [T3,MDIBL]
 icon: icon-html
 ---
