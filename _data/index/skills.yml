@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Circos, C++, R, BASH, Python, Sleeping
-percentage: 70, 60, 50, 50, 95, 90, 50
+aspects: GitHub, Circos, C++, R, Linux/BASH, Python, SQLite, Perl
+percentage: 70, 60, 50, 50, 95, 90, 70, 75
