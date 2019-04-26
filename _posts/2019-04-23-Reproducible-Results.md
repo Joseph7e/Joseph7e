@@ -3,9 +3,9 @@ layout: post
 title:  "How to make your analyses reproducible"
 date:   2019-04-23
 desc: ""
-keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [LINUX]
-tags: [Jalpc,Jekyll]
+keywords: "snakemake, workflow, bioinformtics, python"
+categories: [python]
+tags: [snakemake, python]
 icon: icon-html
 ---
 
