@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.  # Describe yourself.
+  desc: I am a PhD graduate stuent at the University of New Hampshire and Research Assistant at the Hubbard Center for Genome Studies. I spend most of my days doing bioinformtics - writing code to analyze next-generation sequencing data. My current work has been focused on improving metagenomic analyses of benthic metazoa by vastly expandning the set of meiofaunal genome references and writing programs to analyze mitochondrial metagenomic data. Outside of work I enjoy traveling, I'll be heading to a camping trip to Yellowstone in July. Check out my blog. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
