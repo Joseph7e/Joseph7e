@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
+- last_name: HCGS
   first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+  desc: Hubbard Center for Genome Studies
+  website: https://hcgs.unh.edu/
+  email:
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: MDIBL
+  first_name:
+  desc: Workshop Homepage
+  website: https://labcentral.mdibl.org/workspaces/view/5ad10ee2-cf8c-4894-a980-1172d1dec312/pages/5ad8c98a-76a8-4b42-a40d-18a4d1dec312
+  email:
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Sevigny
+  first_name: Joseph
+  desc: Github Repositories
+  website: https://github.com/Joseph7e?tab=repositories
+  email:
