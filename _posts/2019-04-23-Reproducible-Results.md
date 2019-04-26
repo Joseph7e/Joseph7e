@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "code snippet test"
-date:   2017-12-21
-desc: "Quick test on writing code snippets in a blog post"
+title:  "How to make your analyses reproducible"
+date:   2019-04-23
+desc: ""
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
 tags: [Jalpc,Jekyll]
