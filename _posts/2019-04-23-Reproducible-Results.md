@@ -4,7 +4,7 @@ title:  "How to make your analyses reproducible"
 date:   2019-04-23
 desc: ""
 keywords: "snakemake, workflow, bioinformtics, python"
-categories: [python]
+categories: [PYTHON]
 tags: [snakemake, python]
 icon: icon-html
 ---
