@@ -24,7 +24,7 @@
     detail: 2015
     i18n: company_b_date
   job:
-    detail:
+    detail: First Publication on The Mitochondrial Genomes of Two Nudibranch Molluscs and Their Impact on Gastropoda Phylogeny
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -38,6 +38,6 @@
     detail: 2013
     i18n: company_c_date
   job:
-    detail:
+    detail: Man I miss working outside sometimes
     i18n: company_c_job
   icon: fa-plus-square
