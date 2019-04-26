@@ -6,7 +6,7 @@
   gh_user: Joseph7e
   repo: MDIBL-T3-WGS-Tutorial
   img: /static/assets/img/landing/mdibl.jpg
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: This repository contains workflow and teaching materials for the T3 workshops
 
 - name: Taxonomy-Assignment
   i18n: taxonomy
